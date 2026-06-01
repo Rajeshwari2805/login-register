@@ -2,7 +2,7 @@
 A beautiful login and registration page built with HTML, CSS and JavaScript.
 
 ## Live Demo
-https://rajeshwari2805.github.io/login-register/login-register.html
+https://rajeshwari2805.github.io/login-register/
 
 ## Features
 - Clean modern UI design
