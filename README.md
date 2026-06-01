@@ -20,7 +20,10 @@ https://rajeshwari2805.github.io/login-register/
 ## Note
 This repository contains the frontend UI only.
 The backend (PHP + MySQL) runs locally using XAMPP.
-Full backend files available in the project folder.
+For full working backend with database:
+- Clone the project
+- Install XAMPP
+- Run on localhost:8080
 
 ## How to Run Locally
 1. Install XAMPP
